@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="ClinicCalanderTest" project="PatientIntakeSystem" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.infy.demo.PatientIntakeSystem.ClinicCalanderTest" time="0.068" displayname="ClinicCalanderTest" uniqueid="[engine:junit-jupiter]/[class:com.infy.demo.PatientIntakeSystem.ClinicCalanderTest]">
+    <testcase name="testAddAppontments" classname="com.infy.demo.PatientIntakeSystem.ClinicCalanderTest" time="0.068" displayname="testAddAppontments()" uniqueid="[engine:junit-jupiter]/[class:com.infy.demo.PatientIntakeSystem.ClinicCalanderTest]/[method:testAddAppontments()]"/>
+  </testsuite>
+</testrun>

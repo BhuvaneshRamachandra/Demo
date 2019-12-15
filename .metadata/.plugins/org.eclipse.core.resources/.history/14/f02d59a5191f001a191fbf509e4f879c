@@ -1,0 +1,24 @@
+package com.infy.demo.PatientIntakeSystem;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ClinicCalanderTest {
+
+	@Test
+	void testClinicCalander() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testAddAppontments() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	void testGetListofAppointments() {
+		fail("Not yet implemented");
+	}
+
+}

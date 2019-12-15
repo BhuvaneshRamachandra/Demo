@@ -1,0 +1,22 @@
+package com.infy.demo.PatientIntakeSystem;
+
+import java.util.Scanner;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+	private static ClinicCalander calendar;
+    public static void main( String[] args )
+    {
+    	calendar=new ClinicCalander();
+    	Scanner scanner=new Scanner(System.in);
+        System.out.println( "Welcome to Patinet Intake System!\n\n" );
+        String lastOption="";
+        while(!lastOption.equalsIgnoreCase("x")) {
+        	
+        }
+    }
+}

@@ -1,0 +1,11 @@
+package com.infy.demo.PatientIntakeSystem;
+
+import java.time.LocalDateTime;
+
+public class Appointment {
+
+	public Appointment(String patientFirstname, String patientLastname, LocalDateTime localdatetime, Doctor doc) {
+		// TODO Auto-generated constructor stub
+	}
+
+}

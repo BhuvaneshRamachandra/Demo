@@ -1,0 +1,18 @@
+package com.infy.demo.PatientIntakeSystem;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ClinicCalander {
+
+	private List<Appointment> listofAppointments;
+
+	public ClinicCalander() {
+		this.listofAppointments=new ArrayList<Appointment>();
+	}
+	
+	public void addAppontments(String patientFirstname,String patientLastname, String doctorKey,String dateTime) {
+		Doctor doc=new 
+		
+	}
+}
